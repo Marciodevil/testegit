@@ -2,3 +2,4 @@ bloco teste git so isso
 agora vou fazer o segundo push
 fiz mudanças no txt e agora vou ver no 
 diff
+-a so adiciona arquivos modificados
